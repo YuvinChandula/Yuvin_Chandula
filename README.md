@@ -1,0 +1,106 @@
+# Hi there, I'm Yuvin Chandula 👋
+### System & Network Engineer | Cloud & Security Specialist
+*Ensuring 99.9% Uptime & Securing Enterprise Infrastructure*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuvin-chandula/)
+[![Credly](https://img.shields.io/badge/Credly-Verified%20Certificates-orange)](https://www.credly.com/users/yuvin-chandula)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:yuvinchandula66@yahoo.com)
+
+---
+
+## 👨‍💻 About Me
+
+[cite_start]I am an experienced IT professional with over **6 years of expertise** in system administration, infrastructure engineering, and IT support[cite: 10]. I specialize in bridging the gap between complex network security requirements and seamless business operations.
+
+[cite_start]Currently a **System Engineer at Mitrai AI**, I manage Sophos Firewalls, Azure Cloud environments, and disaster recovery protocols[cite: 17, 20]. [cite_start]My background includes supporting critical healthcare infrastructure for **Stanford Healthcare** (via HCL) and optimizing network security for **Tellida Pvt Ltd**[cite: 25, 38].
+
+**My Value Proposition:** I don't just fix problems; I prevent them through rigorous patch management, proactive monitoring (SIEM), and secure architecture.
+
+---
+
+## 🛠 Tech Stack & Skills
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Network Security** | [cite_start]FortiGate & Sophos Firewalls, VPNs, Access Control, TCP/IP [cite: 11, 30, 35] |
+| **Cloud & Virtualization** | [cite_start]Microsoft Azure, AWS, VMware, Oracle Cloud [cite: 12, 66, 71] |
+| **Monitoring & SIEM** | [cite_start]Wazuh SIEM, PRTG Network Monitor, Veeam Backup & Replication [cite: 22, 23] |
+| **IT Management** | [cite_start]Jira Service Desk, ServiceNow, Active Directory, ITIL V4 [cite: 21, 47, 75] |
+| **OS & Scripting** | [cite_start]Windows Server, PowerShell [cite: 36] |
+
+---
+
+## 🚀 Featured Projects (Case Studies)
+
+### 1. Enhancing Network Security & Threat Prevention
+*Role: System & Network Administrator @ Tellida Pvt Ltd*
+
+[cite_start]**The Challenge:** The organization needed to strengthen its defensive perimeter against increasing cyber threats and facilitate secure remote work for 50+ employees[cite: 34].
+
+**The Solution:**
+* [cite_start]Configured **FortiGate and Sophos firewalls** with strict access control policies.
+* [cite_start]Implemented a rigorous **patch management** schedule to update infrastructure immediately[cite: 31].
+* [cite_start]Deployed advanced antivirus and endpoint protection solutions[cite: 32].
+
+**The Results:**
+* [cite_start]✅ Reduced potential security breaches by **30%**.
+* [cite_start]✅ Improved system uptime by **15%** through vulnerability reduction[cite: 31].
+* [cite_start]✅ Successfully implemented VPNs for **50+ remote employees**[cite: 34].
+
+### 2. Critical Infrastructure Support for Healthcare
+*Role: Infrastructure Engineer @ HCL Technologies (Client: Stanford Healthcare)*
+
+[cite_start]**The Challenge:** A high-stakes healthcare environment required absolute network stability and rapid incident response to ensure patient care wasn't disrupted[cite: 38].
+
+**The Solution:**
+* Diagnosed complex network infrastructure issues using root-cause analysis.
+* [cite_start]Managed incidents with strict adherence to **SLAs** (Service Level Agreements)[cite: 45].
+* [cite_start]Coordinated hardware and software upgrades to ensure scalability[cite: 43].
+
+**The Results:**
+* [cite_start]✅ Achieved a **20% increase** in overall network stability[cite: 42].
+* [cite_start]✅ Maintained a response time of **under 30 minutes** for high-priority tickets[cite: 45].
+
+### 3. Modern Monitoring & Disaster Recovery
+*Role: System Engineer @ Mitrai AI*
+
+[cite_start]**The Challenge:** The business required continuous visibility into server health and a robust plan for data loss prevention[cite: 22].
+
+**The Solution:**
+* [cite_start]Deployed **PRTG Network Monitor** and **Wazuh SIEM** for real-time security and availability tracking[cite: 22].
+* [cite_start]Configured **Veeam Backup & Replication** for data integrity and disaster recovery[cite: 23].
+
+**The Results:**
+* ✅ Established continuous availability and security monitoring.
+* ✅ Ensured business continuity through reliable backup restoration protocols.
+
+---
+
+## 📜 Certifications
+
+I believe in continuous learning. Here are my verified credentials:
+
+* [cite_start]**Azure Administrator Associate (AZ 104)** - Microsoft (*Reading*) [cite: 66]
+* [cite_start]**Fortinet Certified Associate** - Cybersecurity [cite: 69]
+* [cite_start]**Fortinet Certified Fundamentals** - Cybersecurity [cite: 70]
+* [cite_start]**CCNA: Introduction to Networks** - Cisco [cite: 68]
+* [cite_start]**Oracle Cloud Infrastructure 2024 Certified Foundations Associate** [cite: 71]
+* [cite_start]**Certified Computer Forensics Analyst (CCFA)** [cite: 72]
+* [cite_start]**ITIL® 4 Foundation** [cite: 75]
+* [cite_start]**AWS Cloud Technical Essentials** [cite: 67]
+
+[cite_start]👉 [**Verify on Credly**](https://www.credly.com/users/yuvin-chandula) [cite: 76]
+
+---
+
+## 🎓 Education
+
+* [cite_start]**BSc (Hons) Computer Network** - Plymouth University / NSBM (2017-2020) [cite: 55, 56]
+* [cite_start]**Diploma of Higher Education** - Plymouth University (2018-2019) [cite: 58]
+
+---
+
+### 📫 Connect with Me
+* **Location:** Colombo, Sri Lanka
+* **Phone:** (+94) 773253473
+* **Email:** yuvinchandula66@yahoo.com
